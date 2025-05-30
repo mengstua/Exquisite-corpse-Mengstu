@@ -1,2 +1,2 @@
-# Exquisite-corpse-Mengstu
+## Exquisite-corpse-Mengstu
 Practicing GIT version control 
